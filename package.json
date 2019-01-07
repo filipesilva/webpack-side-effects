@@ -1,0 +1,17 @@
+{
+  "name": "webpack-side-effects",
+  "version": "1.0.0",
+  "description": "This example shows how the `sideEffects` flag for library authors works.",
+  "main": "example.js",
+  "dependencies": {
+    "webpack": "4.28.2",
+    "webpack-cli": "3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
